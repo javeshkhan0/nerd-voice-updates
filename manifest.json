@@ -1,8 +1,8 @@
 {
-  "version": "1.3.1",
-  "url": "https://github.com/javeshkhan0/nerd-voice-updates/releases/download/v1.3.1/NerdVoice_Setup.exe",
-  "sha256": "8a9166dcd195af28649f2c5055c2ed01adc85d56426327dd99808cd72bee4e48",
-  "size": 49301236,
-  "notes": "Subtitles (.srt) export, voice gender filter fix, transparent branding, bigger window, faster first-open voice loading.",
-  "signature": "8dc5eda82092c9a0518d08b7143b78851a1b47c0bcc2c997832f3e54a8c668b5fdb2064008c4c786b3086f7b7b0d6fef47cd614e149e6aeafed59cca2af5fe08"
+  "version": "1.3.2",
+  "url": "https://github.com/javeshkhan0/nerd-voice-updates/releases/download/v1.3.2/NerdVoice_Setup.exe",
+  "sha256": "f806f5668cfc353a5b1bafee460b4d67d1270bba66a7a8150cafe371a2947e7d",
+  "size": 49297427,
+  "notes": "Default quality now Normal (best), shorter SRT toggle, and hardened activation.",
+  "signature": "57875acbfa204004db77fda1b112a3c28a1ebda8a17ee1cdf00ca11b3246a9fdf3800c87284bcc0dc76dac87f09e3ea8d38a717536615c9df559efc8d2e5d909"
 }
