@@ -1,8 +1,8 @@
 {
-  "version": "1.3.2",
-  "url": "https://github.com/javeshkhan0/nerd-voice-updates/releases/download/v1.3.2/NerdVoice_Setup.exe",
-  "sha256": "f806f5668cfc353a5b1bafee460b4d67d1270bba66a7a8150cafe371a2947e7d",
-  "size": 49297427,
-  "notes": "Default quality now Normal (best), shorter SRT toggle, and hardened activation.",
-  "signature": "57875acbfa204004db77fda1b112a3c28a1ebda8a17ee1cdf00ca11b3246a9fdf3800c87284bcc0dc76dac87f09e3ea8d38a717536615c9df559efc8d2e5d909"
+  "version": "1.3.3",
+  "url": "https://github.com/javeshkhan0/nerd-voice-updates/releases/download/v1.3.3/NerdVoice_Setup.exe",
+  "sha256": "44ed3cbec6c5cbc289655642e8e4ced47b6e3e3e4bd57392049a2417a069c22c",
+  "size": 49296217,
+  "notes": "One-click silent updates (no setup wizard), and update downloads no longer pile up in temp.",
+  "signature": "decdb32fffde7897a397d1d4e9266cb7e634c02e19c50222f099b8842da2bc791823657d964cb79bc742b518a20236dbf35042ff1f7f3bdeaaee8094604c2109"
 }
