@@ -1,8 +1,8 @@
 {
-  "version": "1.3.5",
-  "url": "https://github.com/javeshkhan0/nerd-voice-updates/releases/download/v1.3.5/NerdVoice_Setup.exe",
-  "sha256": "a428671cf1d08e0aace3b5a921b737e86b0e116c725293bb7a90761b08b5d010",
-  "size": 49711588,
-  "notes": "Cloning now just needs the audio (no transcript step), and the About screen shows the correct version.",
-  "signature": "1bff14415de27a7db05d7fa04a8d04800a1c92f2139b7c42524b5bfb5d7c0a107190ac3ed1b0a5332859d2904abdb3ddfe0ce693c604139dcb0ac94d36586f0a"
+  "version": "1.3.6",
+  "url": "https://github.com/javeshkhan0/nerd-voice-updates/releases/download/v1.3.6/NerdVoice_Setup.exe",
+  "sha256": "d9ba20ca6d7358559e17308b1016826196b3522b277460b74e2dd66d4c35c6b6",
+  "size": 49715306,
+  "notes": "Fixes voice clones failing to generate (no longer needs paid transcription \u2014 Fish clones from the audio alone).",
+  "signature": "f5453bce6df9e05d321884920cc9097a25db5dbd2739688d2e690f158698932dc14be0ad958aaf11a2d314a541bd37302a17bf2849d5a6dfcd7e237c3a033d06"
 }
